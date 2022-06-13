@@ -1,6 +1,6 @@
 {
   "name": "blank-test",
-  "homepage": "https://artofpc.com/test-gpu-app/",
+  "homepage": "https://boilerplate-react-1bd8uysz3-artofpc.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
